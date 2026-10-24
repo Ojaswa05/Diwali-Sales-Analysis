@@ -1,4 +1,8 @@
+<div align="center">
+
 # Diwali Sales Analysis
+
+</div>
 
 <p align="center">
   <img src="https://images.unsplash.com/photo-1607082350899-7e2823c7f64e?auto=format&fit=crop&w=1200&q=80" alt="Diwali festive shopping illustration" width="100%" />
